@@ -10,7 +10,7 @@
 #### **欢迎页：**
 ---
 ![授权Alt](https://cdn.it120.cc/apifactory/2018/04/19/b1471a03b047fe47347afa63dad405d9.png "授权页")
-![欢迎页Alt](https://cdn.it120.cc/apifactory/2018/04/19/c0db49b1e7c15f18f8fbf7184d01404b.png "欢迎页")
+
 #### **分类页：**
 ---
 ![分类页Alt](https://cdn.it120.cc/apifactory/2018/04/19/2ee6e067ea689dede5f9c37cfc3524d9.png "分类页")
@@ -45,9 +45,7 @@
 #### **订单详情：**
 ---
 ![订单详情Alt](https://cdn.it120.cc/apifactory/2018/04/19/256e1329bd0d71544f401fbef0fc1dfb.png "订单详情页")
-#### **个人中心：**
----
-![个人中心Alt](https://cdn.it120.cc/apifactory/2018/04/19/2d2adb6d4427bf9f67b3361ba7ea48d9.png "个人中心")
+
 #### **钱包充值、提现：**
 ---
 ![钱包充值、提现Alt](https://cdn.it120.cc/apifactory/2018/04/19/c3b644f5b29044bac0845f2cdabf5d79.png "钱包充值、提现")
@@ -55,9 +53,7 @@
 #### **导航到店里：**
 ---
 ![导航到店里Alt](https://cdn.it120.cc/apifactory/2018/04/19/289f433247b5261575a6f8fdd9daf4e2.png "导航到店里")
-#### **关于我们：**
----
-![关于我们Alt](https://cdn.it120.cc/apifactory/2018/04/19/d8ea23a9cf8d57dc21375178fe47672b.png "关于我们")
+
 ---
 ### 使用配置说明：
 - **微信公众平台基础配置**
